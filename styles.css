@@ -1,7 +1,10 @@
 h1 {
     text-align: center;
+    background-color:grey;
+    color:#FDB548;
 }
 
 ul {
-    
+   background-color:grey;
+   color: #FDB548; 
 }
